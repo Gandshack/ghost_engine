@@ -1,5 +1,5 @@
 [workspace]
 resolver = "3"
-members = []
+members = ["ghost_core", "ghost_editor", "ghost_renderer", "ghost_runtime"]
 
 [workspace.dependencies]
